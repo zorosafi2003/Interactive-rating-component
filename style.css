@@ -24,12 +24,12 @@ body {
   background-color: var(--color-very-dark-blue);
 }
 
-div.card {
+section.card {
   width: 412px;
   border-radius: 30px;
   background-color: var(--color-dark-blue);
 }
-div.card .card-body {
+section.card .card-body {
   padding: 34px;
 }
 
